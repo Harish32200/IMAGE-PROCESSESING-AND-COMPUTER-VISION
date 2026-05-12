@@ -1,0 +1,6 @@
+{
+  "name": "AgroPulse: AI Crop Doctor",
+  "description": "Intelligent crop disease detection using Excess Green Index (ExG) segmentation and Gemini vision models for precise classification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Image Recognition", "Agriculture Advice"]
+}
